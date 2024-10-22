@@ -1,5 +1,4 @@
--untuk menjalankan tailwind kita harus menginstall node js di laptop
+-npm install
 -npm init -y
 -npm install -D tailwindcss
 -npx tailwindcss init
--
